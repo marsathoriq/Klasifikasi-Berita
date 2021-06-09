@@ -16,9 +16,9 @@ For public:
 
 ## Models
 Link Google Colab : https://colab.research.google.com/drive/1Svvs_OYL1qA0j1MsFoob7KghqhQhL3Bh
-- Sentiment Analysis (https://github.com/marsathoriq/Klasifikasi-Berita/blob/main/Sentiment%20Analysis%20Model/Sentiment_Analysis.ipynb)
-- Topic Classification (https://github.com/marsathoriq/Klasifikasi-Berita/blob/main/Topic%20Classification%20Model/Topic_Classification.ipynb)
-- Jakarta News Detection ()
+- [Sentiment Analysis] (https://github.com/marsathoriq/Klasifikasi-Berita/blob/main/Sentiment%20Analysis%20Model/Sentiment_Analysis.ipynb)
+- [Topic Classification] (https://github.com/marsathoriq/Klasifikasi-Berita/blob/main/Topic%20Classification%20Model/Topic_Classification.ipynb)
+- [Jakarta News Detection] ()
 
 ## Pipeline
 - Data Cleaning <br>
