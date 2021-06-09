@@ -20,9 +20,9 @@ For public:
 - Jakarta News Detection ()
 
 ## Pipeline
-- Data Cleaning
+- Data Cleaning <br>
 For data cleaning we using method like Normalization, furthermore we do stopword removal, delete punctuation, lowercase, and delete whitespace
-- Feature Extraction
+- Feature Extraction <br>
 For feature extraction we using bag of word (BOW) and compare with word2vector. But for final model we use BOW
-- Modeling
+- Modeling <br>
 In modeling we compare two deep learning model first is neural network and second is Long short-term memory (LSTM)
