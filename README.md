@@ -10,3 +10,10 @@ For the government:
 For public:
 - Easily get the latest news for a specific category.
 - Get to know more about the latest government policies and their acceptance in the community based on the results of sentiment analysis.
+
+## Models
+### Sentiment Analysis 
+
+### Topic Classification
+
+### Jakarta News Detection
