@@ -18,13 +18,14 @@ For public:
 Link Google Colab : <br>
 https://colab.research.google.com/drive/1Svvs_OYL1qA0j1MsFoob7KghqhQhL3Bh <br>
 https://colab.research.google.com/drive/1cyL6KIS-padWpcSmpQMvFFHmZCBAR7Qt#scrollTo=WiJ9zzQJ3w4N <br>
+https://colab.research.google.com/drive/1FvM8iRStqAvjLdwz93l2TuHrMqDNwBsG?usp=sharing <br>
 
 - [Sentiment Analysis](https://github.com/marsathoriq/Klasifikasi-Berita/blob/main/Sentiment%20Analysis%20Model/Sentiment_Analysis.ipynb)
   <br> <img src="res/sentiment_analysis_model.PNG" />
 - [Topic Classification](https://github.com/marsathoriq/Klasifikasi-Berita/blob/main/Topic%20Classification%20Model/Topic_Classification.ipynb)
   <br> <img src="res/topic_classification_model.PNG" />
-- [Jakarta News Detection]()
-
+- [Jakarta News Detection](https://github.com/marsathoriq/Klasifikasi-Berita/blob/main/Jakarta%20News%20Detection%20Model/Jakarta_News_Detection.ipynb)
+  <br> <img src="res/jakarta_news_detection.PNG" />
 
 ## Pipeline
 - Data Cleaning <br>
