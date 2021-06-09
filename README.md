@@ -1,3 +1,6 @@
+# Machine Learning
+This repository save many models machine learning and code to build model that contain data cleaning, feature extraction, and modeling
+
 # VizNewz
 VizNewz is a sentiment analysis app, designed to help government/communities to get the latest trends from a specific region. Currently, we only support getting trends and sentiments from Jakarta as part of the Jakarta Smart City (JSC) program.
 
