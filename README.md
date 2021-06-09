@@ -15,7 +15,10 @@ For public:
 - Get to know more about the latest government policies and their acceptance in the community based on the results of sentiment analysis.
 
 ## Models
-Link Google Colab : https://colab.research.google.com/drive/1Svvs_OYL1qA0j1MsFoob7KghqhQhL3Bh
+Link Google Colab : <br>
+https://colab.research.google.com/drive/1Svvs_OYL1qA0j1MsFoob7KghqhQhL3Bh <br>
+https://colab.research.google.com/drive/1cyL6KIS-padWpcSmpQMvFFHmZCBAR7Qt#scrollTo=WiJ9zzQJ3w4N <br>
+
 - [Sentiment Analysis](https://github.com/marsathoriq/Klasifikasi-Berita/blob/main/Sentiment%20Analysis%20Model/Sentiment_Analysis.ipynb)
 - [Topic Classification](https://github.com/marsathoriq/Klasifikasi-Berita/blob/main/Topic%20Classification%20Model/Topic_Classification.ipynb)
 - [Jakarta News Detection]()
