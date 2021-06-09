@@ -14,7 +14,8 @@ For public:
 - Easily get the latest news for a specific category.
 - Get to know more about the latest government policies and their acceptance in the community based on the results of sentiment analysis.
 
-## Code Models
+## Models
+Link Google Colab : https://colab.research.google.com/drive/1Svvs_OYL1qA0j1MsFoob7KghqhQhL3Bh
 - Sentiment Analysis (https://github.com/marsathoriq/Klasifikasi-Berita/blob/main/Sentiment%20Analysis%20Model/Sentiment_Analysis.ipynb)
 - Topic Classification (https://github.com/marsathoriq/Klasifikasi-Berita/blob/main/Topic%20Classification%20Model/Topic_Classification.ipynb)
 - Jakarta News Detection ()
@@ -26,6 +27,7 @@ For data cleaning we using method like Normalization, furthermore we do stopword
 For feature extraction we using bag of word (BOW) and compare with word2vector. But for final model we use BOW
 - Modeling <br>
 In modeling we compare two deep learning model first is neural network and second is Long short-term memory (LSTM)
+
 
 ## Result 
 This is accuracy comparing BOW + NN vs W2V + LSTM
