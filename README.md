@@ -21,5 +21,8 @@ For public:
 
 ## Pipeline
 - Data Cleaning
+For data cleaning we using method like Normalization, furthermore we do stopword removal, delete punctuation, lowercase, and delete whitespace
 - Feature Extraction
+For feature extraction we using bag of word (BOW) and compare with word2vector. But for final model we use BOW
 - Modeling
+In modeling we compare two deep learning model first is neural network and second is Long short-term memory (LSTM)
