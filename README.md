@@ -14,9 +14,12 @@ For public:
 - Easily get the latest news for a specific category.
 - Get to know more about the latest government policies and their acceptance in the community based on the results of sentiment analysis.
 
-## Models
-### Sentiment Analysis 
+## Code Models
+- Sentiment Analysis (https://github.com/marsathoriq/Klasifikasi-Berita/blob/main/Sentiment%20Analysis%20Model/Sentiment_Analysis.ipynb)
+- Topic Classification (https://github.com/marsathoriq/Klasifikasi-Berita/blob/main/Topic%20Classification%20Model/Topic_Classification.ipynb)
+- Jakarta News Detection ()
 
-### Topic Classification
-
-### Jakarta News Detection
+## Pipeline
+- Data Cleaning
+- Feature Extraction
+- Modeling
