@@ -29,7 +29,7 @@ https://colab.research.google.com/drive/1FvM8iRStqAvjLdwz93l2TuHrMqDNwBsG?usp=sh
 
 ## Pipeline
 - Data Cleaning <br>
-For data cleaning we using method like Normalization, furthermore we do stopword removal, delete punctuation, lowercase, and delete whitespace
+For data cleaning we using method like Normalization, stopword removal, delete punctuation, lowercase, and delete whitespace
 - Feature Extraction <br>
 For feature extraction we using bag of word (BOW) and compare with word2vector. But for final model we use BOW
 - Modeling <br>
